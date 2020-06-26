@@ -1,5 +1,5 @@
 {
-  "backendUrl": "/api",
+  "backendUrl": "https://cors-anywhere.herokuapp.com/http://35.197.129.155:8090",
   "appName": "BDS",
   "lookerHost": "https://propertyguru.cloud.looker.com",
   "listLocales": "en,fr,vi",
