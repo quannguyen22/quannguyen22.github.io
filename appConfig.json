@@ -1,0 +1,23 @@
+{
+  "backendUrl": "/api",
+  "appName": "BDS",
+  "lookerHost": "https://propertyguru.cloud.looker.com",
+  "listLocales": "en,fr,vi",
+  "defaultLanguage": "en",
+  "defaultTheme": "default",
+  "defaultHomeUrl": "/",
+  "sessionDuration": 30,
+  "recaptchaKey": "6LeezWMUAAAAADBsiR4lTP5rfCExv0aJpbI1dQe9",
+  "appPermissionMode": "menu",
+  "appPermission": {
+    "users_create": {
+      "rights": ["/user/create"]
+    },
+    "users_update": {
+      "rights": ["/user/update"]
+    },
+    "users_delete": {
+      "rights": ["/user/delete"]
+    }
+  }
+}
